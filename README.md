@@ -50,7 +50,7 @@ _The code can be found in file named [Triangle_Supersampling.cpp](Triangle_Super
 
 _This question is implemented by Itisha Patidar (B17CS026)._
 
-The midpoint Circle drawing algorithm is implemented in C++. The program generates a circular arc from 135-215 degree.
+The midpoint Circle drawing algorithm is implemented in C++. The program generates a circular arc from 135-215 degree of a circle centered at origin and has radius 100.
 
 _The code can be found in file named [Circle_Drawing.cpp](Circle_Drawing.cpp)_
 
@@ -63,5 +63,9 @@ _The code can be found in file named [Circle_Drawing.cpp](Circle_Drawing.cpp)_
 Standard OpenGL for CPP procedures are to followed to run the files.
 
 ### Steps to run in Windows:
+1. Setup OpenGL in CodeBlocks or Visual Studio.
+2. Create a freeglut Project.
+3. Import file then build and run the project.
 
 ### Steps to run in Linux:
+g++ filename.cpp -lGL -lGLU -lglut
