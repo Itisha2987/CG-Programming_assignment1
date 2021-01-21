@@ -8,6 +8,10 @@ The midpoint line drawing algorithm is implemented in C++. The program randomly 
 
 _The code can be found in file named [Line_Drawing.cpp](Line_Drawing.cpp)_
 
+#### Output:
+
+![Line_Drawing_Output](https://raw.githubusercontent.com/Itisha2987/CG-Programming_assignment1/main/Line_Drawing_Output.png)
+
 ## Ques 2. (5 marks)
 
 _This question is implemented by Geetesh Gupta (B17CS024)._
@@ -49,6 +53,10 @@ _This question is implemented by Itisha Patidar (B17CS026)._
 The midpoint Circle drawing algorithm is implemented in C++. The program generates a circular arc from 135-215 degree.
 
 _The code can be found in file named [Circle_Drawing.cpp](Circle_Drawing.cpp)_
+
+#### Output:
+
+![Circle_Drawing_Output](https://raw.githubusercontent.com/Itisha2987/CG-Programming_assignment1/main/Circle_Drawing_Output.png)
 
 ## Steps to run the code
 
