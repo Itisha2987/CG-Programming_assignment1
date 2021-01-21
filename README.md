@@ -38,6 +38,9 @@ The program generates a traingle with coordinates within the range 10-400 for bo
 
 _The code can be found in file named Triangle_Supersampling.cpp_
 
+#### Output:
+![Triangle_Output](https://raw.githubusercontent.com/Itisha2987/CG-Programming_assignment1/main/Triangle_Output.jpeg)
+
 ## Ques 3. (2 marks)
 
 _This question is implemented by Itisha Patidar (B17CS026)._
